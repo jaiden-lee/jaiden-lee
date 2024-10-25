@@ -16,10 +16,9 @@
 
 <p align="center">
   <samp>
-    I specialize in Machine Learning & Devices.
-    <br>I enjoy game development, robotics, and software dev in general.
-    <br>I'm looking for Summer 2024 internships in Software Engineering + Robotics Engineering.
-    <br>readme file stolen from an026
+    I specialize in Machine Learning & Networking.
+    <br>I enjoy game development, web dev, ML, and software dev in general.
+    <br>I'm looking for Summer 20245internships in Full Stack Software Engineering or AI Engineering.
   </samp>
 </p>
 
