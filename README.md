@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    Hi! I'm currently a 1st-year, Computer Science, undergrad student at Georgia Tech.
+    Hi! I'm a rising 3rd-year CS student @ Georgia Tech, studying ML and Networking.
   </samp>
 </p>
 
@@ -16,9 +16,7 @@
 
 <p align="center">
   <samp>
-    I specialize in Machine Learning & Networking.
-    <br>I enjoy game development, web dev, ML, and software dev in general.
-    <br>I'm looking for Summer 20245internships in Full Stack Software Engineering or AI Engineering.
+    I'm big into startups, ML, full stack, and game dev.
   </samp>
 </p>
 
